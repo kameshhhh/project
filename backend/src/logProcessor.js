@@ -1,4 +1,4 @@
 function processLog(entry) {
-  return { processed: true, version: '7.5', timestamp: new Date().toISOString() };
+  return { processed: true, version: '8.5', timestamp: new Date().toISOString() };
 }
 module.exports = { processLog };
