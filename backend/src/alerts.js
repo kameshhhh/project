@@ -1,4 +1,4 @@
 function dispatchAlert(severity, message) {
-  return { id: '9.7', severity, message, dispatchedAt: new Date().toISOString() };
+  return { id: '10.7', severity, message, dispatchedAt: new Date().toISOString() };
 }
 module.exports = { dispatchAlert };
