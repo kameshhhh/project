@@ -1,2 +1,2 @@
-async function processJob(job) { return { status: 'completed', version: '27.10' }; }
+async function processJob(job) { return { status: 'completed', version: '28.10' }; }
 module.exports = { processJob };
