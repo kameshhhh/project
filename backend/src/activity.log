@@ -590,3 +590,5 @@
 [EVENT] Seq: 295 | Action: feat(logs): add virtualized log stream processor with pattern filter | Time: 2026-08-19T10:41:02.919Z
 
 [EVENT] Seq: 296 | Action: refactor(db): add composite b-tree index on event timestamps | Time: 2026-08-19T10:41:03.181Z
+
+[EVENT] Seq: 297 | Action: feat(alerts): add webhook notification dispatcher with hmac signing | Time: 2026-08-19T10:41:03.448Z
