@@ -1,3 +1,3 @@
 const cache = new Map();
 function getOrSet(k, v) { if (!cache.has(k)) cache.set(k, v); return cache.get(k); }
-module.exports = { VERSION: '55.8', getOrSet };
+module.exports = { VERSION: '56.8', getOrSet };
