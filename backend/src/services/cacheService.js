@@ -1,4 +1,4 @@
-// Cache Service v7.9
+// Cache Service v8.9
 const redis = require('../config/redis');
 
 class CacheService {
