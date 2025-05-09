@@ -1,3 +1,3 @@
-const VERSION = '74.3';
+const VERSION = '75.3';
 function authenticate(token) { return Boolean(token && token.length > 32); }
 module.exports = { VERSION, authenticate };
