@@ -1,4 +1,4 @@
-// API Key Digest v14.7
+// API Key Digest v15.7
 const crypto = require('crypto');
 
 function hashApiKey(rawKey) {
