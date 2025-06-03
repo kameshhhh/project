@@ -1,4 +1,4 @@
-// Virtual Log Viewer v16.4
+// Virtual Log Viewer v17.4
 import React, { useState } from 'react';
 
 export function LogViewer({ logs = [] }) {
