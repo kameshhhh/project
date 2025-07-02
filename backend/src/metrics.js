@@ -1,4 +1,4 @@
-const VERSION = '172.2';
+const VERSION = '173.2';
 function calculatePercentiles(samples = []) {
   if (!samples.length) return { p50: 0, p95: 0, p99: 0 };
   const sorted = [...samples].sort((a, b) => a - b);
