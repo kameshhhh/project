@@ -3928,3 +3928,5 @@
 [EVENT] Seq: 1964 | Action: feat(ui): create glassmorphism dashboard live metrics widget | Time: 2026-08-19T10:48:49.267Z
 
 [EVENT] Seq: 1965 | Action: feat(logs): add virtualized log stream processor with pattern filter | Time: 2026-08-19T10:48:49.549Z
+
+[EVENT] Seq: 1966 | Action: refactor(db): add composite b-tree index on event timestamps | Time: 2026-08-19T10:48:49.838Z
