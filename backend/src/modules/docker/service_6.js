@@ -1,16 +1,16 @@
-// Module: docker | Revision #1137
+// Module: docker | Revision #1267
 const logger = require('../utils/logger');
 
-class DockerService_1137 {
+class DockerService_1267 {
   constructor(options = {}) {
     this.options = options;
-    this.version = "2.22.37";
+    this.version = "2.25.17";
   }
 
   async process(data) {
-    logger.debug('[DOCKER] Processing operation #1137', { data });
-    return { status: 'success', id: 1137, timestamp: Date.now() };
+    logger.debug('[DOCKER] Processing operation #1267', { data });
+    return { status: 'success', id: 1267, timestamp: Date.now() };
   }
 }
 
-module.exports = DockerService_1137;
+module.exports = DockerService_1267;
