@@ -1,3 +1,3 @@
-const VERSION = '287.1';
+const VERSION = '288.1';
 function healthCheck() { return { status: 'healthy', version: VERSION, uptime: process.uptime() }; }
 module.exports = { healthCheck };
