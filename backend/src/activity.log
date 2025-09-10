@@ -5960,3 +5960,5 @@
 [EVENT] Seq: 2980 | Action: feat(worker): setup bullmq background job queue for async rollups | Time: 2026-08-20T02:58:51.718Z
 
 [EVENT] Seq: 2981 | Action: feat(api): implement healthcheck and telemetry probe endpoint | Time: 2026-08-20T02:58:51.998Z
+
+[EVENT] Seq: 2982 | Action: feat(metrics): calculate rolling latency percentiles with hyperloglog | Time: 2026-08-20T02:58:52.307Z
