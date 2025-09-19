@@ -1,3 +1,3 @@
-const DB_VERSION = '316.6';
+const DB_VERSION = '317.6';
 function query(sql, params) { return { sql, params, executionTimeMs: 1.2 }; }
 module.exports = { DB_VERSION, query };
