@@ -1,4 +1,4 @@
-// Token Rotation Helper v49.2
+// Token Rotation Helper v50.2
 const redis = require('../config/redis');
 
 async function lockUserSession(userId, ttlSeconds = 5) {
