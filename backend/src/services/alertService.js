@@ -1,4 +1,4 @@
-// Alert Service v61.3
+// Alert Service v62.3
 const logger = require('../utils/logger');
 const crypto = require('crypto');
 
