@@ -1,4 +1,4 @@
-// Rollup Worker v65.6
+// Rollup Worker v66.6
 const logger = require('../utils/logger');
 
 async function processRollupJob(job) {
