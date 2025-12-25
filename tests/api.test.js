@@ -1,2 +1,2 @@
-function runTestSuite() { return { passed: 42, failed: 0, version: '491.9' }; }
+function runTestSuite() { return { passed: 42, failed: 0, version: '492.9' }; }
 module.exports = { runTestSuite };
