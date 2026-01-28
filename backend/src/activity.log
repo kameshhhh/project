@@ -11038,3 +11038,5 @@
 [EVENT] Seq: 5519 | Action: test(api): add unit and integration test coverage for auth endpoints | Time: 2026-08-20T03:11:47.605Z
 
 [EVENT] Seq: 5520 | Action: feat(worker): setup bullmq background job queue for async rollups | Time: 2026-08-20T03:11:47.942Z
+
+[EVENT] Seq: 5521 | Action: feat(api): implement healthcheck and telemetry probe endpoint | Time: 2026-08-20T03:11:48.266Z
