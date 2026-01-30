@@ -1,4 +1,4 @@
-// Utility Hooks v88.8
+// Utility Hooks v89.8
 import { useState, useEffect } from 'react';
 
 export function useDebounce(value, delay = 300) {
