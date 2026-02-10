@@ -11502,3 +11502,5 @@
 [EVENT] Seq: 5751 | Action: feat(api): implement healthcheck and telemetry probe endpoint | Time: 2026-08-20T03:13:03.095Z
 
 [EVENT] Seq: 5752 | Action: feat(metrics): calculate rolling latency percentiles with hyperloglog | Time: 2026-08-20T03:13:03.407Z
+
+[EVENT] Seq: 5753 | Action: feat(auth): implement argon2id password hashing and session rotation | Time: 2026-08-20T03:13:03.732Z
