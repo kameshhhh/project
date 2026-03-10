@@ -2,7 +2,7 @@ export function Dashboard() {
   return (
     <div className="p-6 rounded-xl bg-slate-900 border border-slate-800">
       <h2 className="text-lg font-bold text-white">DevPulse Live Telemetry</h2>
-      <p className="text-xs text-slate-400">Production Build v629.4</p>
+      <p className="text-xs text-slate-400">Production Build v630.4</p>
     </div>
   );
 }
