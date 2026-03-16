@@ -12756,3 +12756,5 @@
 [EVENT] Seq: 6378 | Action: perf(cache): implement multi-key redis pipeline batch lookup | Time: 2026-08-20T03:16:45.696Z
 
 [EVENT] Seq: 6379 | Action: test(api): add unit and integration test coverage for auth endpoints | Time: 2026-08-20T03:16:46.047Z
+
+[EVENT] Seq: 6380 | Action: feat(worker): setup bullmq background job queue for async rollups | Time: 2026-08-20T03:16:46.389Z
