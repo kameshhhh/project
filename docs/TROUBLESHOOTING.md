@@ -1,4 +1,4 @@
-# Operational Runbook v112.10
+# Operational Runbook v113.10
 
 ## High Ingestion Latency
 1. Check Redis memory usage with `INFO memory`.
