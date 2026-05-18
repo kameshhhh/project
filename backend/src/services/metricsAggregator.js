@@ -1,4 +1,4 @@
-// Metrics Aggregator v121.1
+// Metrics Aggregator v122.1
 const redis = require('../config/redis');
 const db = require('../config/database');
 
